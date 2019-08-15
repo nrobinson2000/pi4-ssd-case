@@ -1,9 +1,8 @@
-[![](images/thingiverse-badge.svg)](https://www.thingiverse.com/thing:3789093) ![](https://img.shields.io/github/downloads/nrobinson2000/pi4-ssd-case/total?style=for-the-badge)
+[![](images/thingiverse-badge.svg)](https://www.thingiverse.com/thing:3789093) [![](https://img.shields.io/github/downloads/nrobinson2000/pi4-ssd-case/total?style=for-the-badge)](https://github.com/nrobinson2000/pi4-ssd-case/releases)
 
 # Raspberry Pi 4 SSD Case
 
 ![](images/pi4_0.jpg)
-
 
 # Summary
 I created this case so I could easily attach an SSD to my Raspberry Pi 4. It's perfect for using the Raspberry Pi as a media center, a server, or a desktop PC.
@@ -27,7 +26,6 @@ https://www.amazon.com/gp/product/B078DPCY3T
 StarTech.com SATA to USB Cable - USB 3.0 to 2.5” SATA III Hard Drive Adapter - External Converter for SSD/HDD Data Transfer (USB3S2SAT3CB)
 https://www.amazon.com/gp/product/B00HJZJI84
 
-# Files
+# Download
 
-* `Raspberry_Pi_4 SSD_Case_Top.stl` is the top of the case.
-* `Raspberry_Pi_4_SSD_Case_Bottom.stl` is the bottom of the case.
+You can download the latest version of the models on the releases page: https://github.com/nrobinson2000/pi4-ssd-case/releases
