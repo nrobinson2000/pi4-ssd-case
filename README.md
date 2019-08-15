@@ -16,16 +16,16 @@ I really wanted to find a case like this here on Thingiverse but since I couldn'
 I hope that this case will work well for anyone who needs it. I highly recommend it.
 
 If you're interested in modifying the case you can get started with the model on Tinkercad:
-https://www.tinkercad.com/things/5JPkop3FIWC
+<https://www.tinkercad.com/things/5JPkop3FIWC>
 
 Finally, if you want to know the exact SSD and SATA to USB connector I'm using, here are the links:
 
 Samsung SSD 860 EVO 1TB 2.5 Inch SATA III Internal SSD (MZ-76E1T0B/AM)
-https://www.amazon.com/gp/product/B078DPCY3T
+<https://www.amazon.com/gp/product/B078DPCY3T>
 
 StarTech.com SATA to USB Cable - USB 3.0 to 2.5” SATA III Hard Drive Adapter - External Converter for SSD/HDD Data Transfer (USB3S2SAT3CB)
-https://www.amazon.com/gp/product/B00HJZJI84
+<https://www.amazon.com/gp/product/B00HJZJI84>
 
 # Download
 
-You can download the latest version of the models on the releases page: https://github.com/nrobinson2000/pi4-ssd-case/releases
+You can download the latest version of the models on the releases page: <https://github.com/nrobinson2000/pi4-ssd-case/releases>
