@@ -32,4 +32,6 @@ You can download the latest version of the models on the releases page: <https:/
 
 # Image Slideshow
 
+<center>
 <blockquote class="imgur-embed-pub" lang="en" data-id="a/RhaiFXj" data-context="false" ><a href="//imgur.com/a/RhaiFXj">Raspberry Pi 4 SSD Case</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+</center>
