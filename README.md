@@ -2,7 +2,7 @@
 
 # Raspberry Pi 4 SSD Case
 
-![](images/pi4_0.jpg)
+![](images/pi4_4.jpg)
 
 # Summary
 I created this case so I could easily attach an SSD to my Raspberry Pi 4. It's perfect for using the Raspberry Pi as a media center, a server, or a desktop PC.
